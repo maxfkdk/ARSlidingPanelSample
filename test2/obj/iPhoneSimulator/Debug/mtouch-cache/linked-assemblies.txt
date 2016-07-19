@@ -1,8 +1,0 @@
-/Users/gloriumtech/Projects/ARSlidingPanel/test2/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
-/Users/gloriumtech/Projects/ARSlidingPanel/test2/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
-/Users/gloriumtech/Projects/ARSlidingPanel/test2/obj/iPhoneSimulator/Debug/mtouch-cache/Link/test2.exe
-/Users/gloriumtech/Projects/ARSlidingPanel/test2/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.dll
-/Users/gloriumtech/Projects/ARSlidingPanel/test2/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
-/Users/gloriumtech/Projects/ARSlidingPanel/test2/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
-/Users/gloriumtech/Projects/ARSlidingPanel/test2/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
-/Users/gloriumtech/Projects/ARSlidingPanel/test2/obj/iPhoneSimulator/Debug/mtouch-cache/Link/ARSlidingPanel.dll

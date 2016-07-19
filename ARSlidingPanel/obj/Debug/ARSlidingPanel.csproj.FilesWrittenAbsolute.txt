@@ -1,5 +1,0 @@
-/Users/gloriumtech/Projects/ARSlidingPanel/ARSlidingPanel/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
-/Users/gloriumtech/Projects/ARSlidingPanel/ARSlidingPanel/bin/Debug/ARSlidingPanel.dll.mdb
-/Users/gloriumtech/Projects/ARSlidingPanel/ARSlidingPanel/bin/Debug/ARSlidingPanel.dll
-/Users/gloriumtech/Projects/ARSlidingPanel/ARSlidingPanel/obj/Debug/ARSlidingPanel.dll
-/Users/gloriumtech/Projects/ARSlidingPanel/ARSlidingPanel/obj/Debug/ARSlidingPanel.dll.mdb
