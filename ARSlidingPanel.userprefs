@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{32A28F1B-EE2E-4EFF-9ED8-7688477CE76B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test2/AppDelegate.cs">
+    <Files>
+      <File FileName="ARSlidingPanel/Structs.cs" Line="10" Column="16" />
+      <File FileName="ARSlidingPanel/obj/Debug/ios/ARSlidingPanel/ARSPContainerController.g.cs" Line="1" Column="1" />
+      <File FileName="test2/AppDelegate.cs" Line="41" Column="15" />
+      <File FileName="ARSlidingPanel/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="ARSlidingPanel/ApiDefinition.cs" Line="69" Column="3" />
+      <File FileName="ARSlidingPanel/libIosSlidingPanelSDK.linkwith.cs" Line="10" Column="15" />
+      <File FileName="test2/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gloriumtech/Projects/ARSlidingPanel/test/MyView.cs" line="14" column="1" />
+      <Breakpoint file="/Users/gloriumtech/Projects/ARSlidingPanel/test2/ViewController.cs" line="28" column="1" />
+      <Breakpoint file="/Users/gloriumtech/Projects/ARSlidingPanel/test2/AppDelegate.cs" line="25" column="1" />
+      <Breakpoint file="/Users/gloriumtech/Projects/ARSlidingPanel/test2/AppDelegate.cs" line="41" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.555767DD-4DC1-4626-8938-C2E03D77442C" />
+</Properties>
